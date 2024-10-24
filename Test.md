@@ -7,3 +7,5 @@
 ## This is for git test
 
 ## This is my fifth commit
+
+## Don't add readme file while initializing the repository.
